@@ -1,0 +1,9 @@
+[package]
+name = "Projet_Asteroid_Cherqi_Garnier"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand="0.8.4"
+macroquad = {version="0.4",features=["audio"]}
+
