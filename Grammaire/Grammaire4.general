@@ -1,0 +1,8 @@
+S1 : aA1a
+S1 : E
+S1 : A1
+A1 : S1b
+A1 : bB1B1
+B1 : abb
+B1 : aC1
+C1 : aC1A1
